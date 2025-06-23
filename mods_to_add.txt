@@ -1,0 +1,2 @@
+https://github.com/Realm07/mmmModsList/raw/refs/heads/main/mods/LockAndBlock-0.8.0.jar
+https://github.com/Realm07/mmmModsList/raw/refs/heads/main/mods/lavender-0.1.9+1.20.jar
